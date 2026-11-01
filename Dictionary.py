@@ -3,3 +3,5 @@ mask = {
     "rohit": 50
 }
 print(mask.keys())
+
+s = set()
